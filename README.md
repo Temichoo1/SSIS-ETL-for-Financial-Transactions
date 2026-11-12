@@ -1,6 +1,6 @@
-# SSIS Introduction Visuals and Diagrams
+# SSIS Visuals and Diagrams
 
-This document contains a collection of visuals and diagrams to help explain the foundational concepts of SQL Server Integration Services (SSIS). These visuals will be helpful for anyone looking to understand SSIS workflows, ETL processes, and package structures.
+This document shows the visuals and diagrams which demonstarate foundational concepts of SQL Server Integration Services (SSIS). 
 
 ## 1. ETL Process Overview
 
@@ -164,6 +164,5 @@ This accounting/finance example will allow you to demonstrate a complete ETL pro
 
 ## Conclusion
 
-In this document, we covered the foundational concepts of SSIS, including the ETL process, Control Flow, Data Flow, connections, error handling, and deployment. Understanding these concepts is crucial for effectively using SSIS to manage data integration tasks. With this knowledge, you are now ready to start building your own SSIS packages, automating data workflows, and leveraging the powerful features of SSIS for data transformation and movement.
+This example covers the foundational concepts of SSIS, including the ETL process, Control Flow, Data Flow, connections, error handling, and deployment. Understanding these concepts is crucial for effectively using SSIS to manage data integration tasks. With this knowledge, you are now ready to start building your own SSIS packages, automating data workflows, and leveraging the powerful features of SSIS for data transformation and movement.
 
-To continue learning, consider exploring more advanced SSIS features like parameterization, package configurations, and performance tuning. Keep practicing, and soon you'll be able to create more complex ETL solutions to meet diverse data integration needs.
